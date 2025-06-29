@@ -314,12 +314,6 @@ Some say the spell summons ancient DAEMON and Sheeps `( ͡~ ͜ʖ ͡°)`
 
 ---
 
-## Contributors
-
-Round of applause & thank you to the following contributors who helped enhance this tool:
-
-- @ChoiSG ([@_choisec](https://twitter.com/_choisec)) - added `--hide` flag for hiding file(s) in ISO/IMG containers
-- Daniel Hauenstein ([@dhauenstein](https://github.com/dhauenstein)) - fixed issue with `--hide` flag
 
 ---
 
